@@ -23,5 +23,5 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
-
-
+SecondArraySymbolsThree(array1, array2);
+PrintArray(array2);
